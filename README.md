@@ -5,7 +5,7 @@
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/1390/badge)](https://bestpractices.coreinfrastructure.org/projects/1390)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-
+# Jakub Suchy
 
 # OWASP ModSecurity Core Rule Set (CRS)
 
